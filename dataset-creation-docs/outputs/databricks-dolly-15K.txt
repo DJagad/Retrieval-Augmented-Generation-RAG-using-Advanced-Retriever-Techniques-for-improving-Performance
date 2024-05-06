@@ -1,0 +1,666 @@
+Q1: Which first indian movie won oscars and what category
+A1: The first indian movie to won oscars is RRR. It is a south indian Tollywood Movie directed by SS Rajamouli and acted by Jr NTR and Ram Charan in main leads. The song Naatu Naatu has won the Oscar for music director Keeravani with lyrics by Chandrabose
+
+Q2: Write a story with a moral lesson at the end?
+A2: You all know the Lion is the king of the forest. One lion king used to go everywhere in its kingdom with his advisors, the wolf and the fox. As lunch time approached, the king asked the wolf what we should do. The wolf said that the prey animals will be coming from the north. You wait hidden in the bush in the south. I shall wait in the west and the fox can wait in the east and ensure the prey do not escape to the east or west.
+ 
+Good idea. so they all followed the plan. Along came a rabbit, ran helter skelter frightened  on seeing the fox and the wolf and straight into the lion, who with one swipe of its paw killed the rabbit. Next a donkey came by and met a similar fate. So did a deer. The lion felt they had sufficient food for their meal and asked the wolf of how we were going to share the meal. The wolf said that the fox can have the rabbit., the lion can have the donkey and he would partake of the deer. The lion knew the tastiest meat is that of the deer, and sensing the deviousness of the advisor wolf smacked him dead. Next he asked the fox for advice on sharing. The fox meekly replied that whatever way the lion wants to have the meal is fine and good. On hearing this the lion said you are a wise and good advisor, who is your guru? The fox humbly replied that the wolf was his guru.  Seeing the fate of the wolf the fox learnt from the wolf's mistake.
+ 
+The moral of the story: You can and must learn from your mistakes. To err is human. But to repeat a mistake is foolish. However we need not keep making mistakes to learn life lessons. It is really wise to learn from other's mistake.
+
+Q3: What is the Krusty Krab?
+A3: The restaurant was founded by Eugene H. Krabs (often referred to as Mr. Krabs), who is also the owner and manager. SpongeBob SquarePants (who works as the fry cook) and Squidward Tentacles (the cashier) are the only full-time employees. The primary competitor to the Krusty Krab is the Chum Bucket across the street, which is operated by Plankton, a plankton and Karen, a waterproof supercomputer and Plankton's wife.
+
+Q4: How accurate are future weather forecasts?
+A4: Weather forecasts are typically accurate for up to 7 days in the future. Forecasts decrease in accuracy the further away you get from the day you're looking, due to the increased variability in key indicators which comprise the models used to build the forecasts.
+
+Q5: What are some fun ways that you could spend time with your family?
+A5: There are many different fun activities that you could do with your family. Some examples include going for a walk, visiting a museum, watching a movie, doing an arts and crafts project, playing a board game, or trying a new restaurant. Please note that your decision ought to consider factors such as the ages, health, interests, and available time of the family members.
+
+Q6: Who is the little person in Game of Thrones?
+A6: Tyrion Lannister is a main character in George R.R. Martin's "Song of Ice and Fire" series. Tyrion is distinguished by his congenital dwarfism. In the "Game of Thrones" television series, which is adapted from Martin's books, Tyrion is portrayed by Peter Dinklage.
+
+Q7: Who was Robert Ross Munro?
+A7: Robert Ross Munro was a twentieth century journalist and the Canadian Press's lead war correspondent in Europe during World War II. He covered numerous campaigns, from Spitsbergen, Dieppe, Sicily, Normandy, and the broader campaign in Northwestern Europe. After the war, Munro published his memoirs of the campaigns, titled "From Gauntlet to Overlord," which won the Governor General's Award for English-language non-fiction in 1945. He also later covered the Korean War, before retiring from military correspondence to become publisher of several Canadian periodicals, including the Vancouver Daily Province, the Winnipeg Tribune, and the Edmonton Journal. Munro was honored for his work with an appointment to the Order of the British Empire (OBE) in 1946.
+
+Q8: What is HDFS?
+A8: HDFS (Hadoop Distributed File System) is a distributed file system that handles large data sets running on commodity hardware. It is used to scale a single Apache Hadoop cluster to hundreds (and even thousands) of nodes. HDFS is one of the major components of Apache Hadoop, the others being MapReduce and YARN.
+
+Q9: What is SSO?
+A9: Single sign-on (SSO) is an authentication scheme that allows a user to log in with a single ID to any of several related, yet independent, software systems. True single sign-on allows the user to log in once and access services without re-entering authentication factors.
+
+Q10: What is type 1 diabetes?
+A10: Type 1 diabetes is an autoimmune condition where beta cells that make insulin are destroyed by the immune system. Insulin is required to help regulate glucose levels in the bloodstream.
+
+Q11: Where is Landscape Arch?
+A11: Landscape Arch is a natural rock arch in Arches National Park in the U.S. state of Utah.
+
+Q12: Classify each of these as a red fruit or an orange fruit: strawberry, cherry, orange, kumquat, tangerine, raspberry
+A12: Red fruit: strawberry, cherry, raspberry
+Orange fruit: Orange, kumquat, tangerine
+
+Q13: What is the average interest rate for a 30 year mortgage in the United States?
+A13: The average interest rate for a 30 year mortgage in the United States as of Tuesday, March 28th is 7.9%. The interest rate that you'll actually for a mortgage get depends on your lender, credit score, and debt to income ratio, among other things.
+
+Q14: Is it better to run or to walk?
+A14: Deciding if running or walking depends on the environment you are in and your capabilities as a person.  The health benefits primarily of walking and running is raising the heart rate.  Consistency is key and it is better to maintain a regular walking habit then to have a sporadic running habit.  If somebody is able to maintain a regular running habit they will see the most benefit from a cardiovascular perspective.
+
+Q15: Classify each of these car manufacturers as either French, German, American, Japanese, or other: Audi, Peugeot, Aston Martin, Ssangyong, Chevrolet, BMW
+A15: French: Peugeot
+German: Audi, BMW
+American: Chevrolet
+Japanese:
+other: Aston Martin, Ssangyong
+
+Q16: Give me a list of basic ingredients for baking cookies
+A16: To bake cookies you will need flour, sugar, eggs, milk, butter, baking powder, and if you want; you can add chocolate chips, cinnamon, walnuts, or macadamia nuts.  By combining the ingredients you will form a soft dough that you can scoop onto a baking sheet and bake in the oven until cooked thoroughly through.
+
+Q17: What was the first American college rowing club?
+A17: The first American college rowing club was founded at Yale College in 1843/
+
+Q18: Categorize the below types of organisms.
+bacteriophages, coccus, bacillus, spiral, coryneform, filamentous
+A18: Bacteria - coccus, bacillus, spiral, coryneform, filamentous
+Virus - bacteriophages
+
+Q19: Is Killing is Sin ? Is it ture
+A19: Killing a human being should not be sin because same goes to any animal. So either both are sin or any one of it is not should not be accepted.
+
+Q20: What is a Moluccan hanging parrot?
+A20: The Moluccan hanging parrot is a species of parrot in the family Psittaculidae. It is endemic to forest and nearby habitats on Halmahera, Bacan and Morotai in Indonesia.
+
+Q21: How much more did the house cost than originally planned? Express as an absolute or nominal difference, not as a percentage.
+A21: $15,000 more than originally planned. The house cost $25,000 but was originally quoted at $10,000. $25,000 - $10,000 = $15,000
+
+Q22: Give me a list of actors who won an Oscar in the last 5 years and tell me for which movie they won it.
+A22: 1. Brendan Fraser, 2022, The Whale
+2. Will Smith, 2021, King Richard
+3. Anthony Hopkins, 2020, The father
+4. Joaquin Phoenix, 2019, Joker
+5. Rami Malek, 2018, Bohemian Rhapsody
+
+Q23: Which of the following are convex functions: x^2, x square, 0, sin(x), e^x, sqrt(x), x^-0.5
+A23: x^2, x square, 0, e^x
+
+Q24: Where is Budhor Kalan
+A24: Budhor Kalan is a village in the Bhopal district of Madhya Pradesh, India. It is located in the Berasia tehsil.
+
+Demographics
+According to the 2011 census of India, Budhor Kalan has 144 households. The effective literacy rate (i.e. the literacy rate of population excluding children aged 6 and below) is 66.83%.
+
+Q25: Who set the first Guinness World Record for swimming under ice?
+A25: On 16 March 2000, Wim Hof set the Guinness World Record for thre farthest swim under ice, with a distance of 57.5 metres (188.6 feet).
+
+Q26: Name five different cuts of beef that I could ask for from a butcher
+A26: There are many popular cuts of beef. Three that you could ask your butcher to prepare are brisket, rib and sirloin.
+
+Q27: Given this paragraph about Lady Gaga, which album did "Bloody Mary" appear on?
+A27: Born this Way (2011)
+
+Q28: Given a reference text about the golden-green woodpecker, tell be how big they are.
+A28: The golden-green woodpecker weighs between 55 and 91 grams and is between 18 and 27 centimeters long.
+
+Q29: Which is an imperial or a metric measurement: pint, millilitres
+A29: pint is imperial, millilitres is metric
+
+Q30: What is the Great Emu War and who won?
+A30: The Great Emu War was a military operation undertaken in Western Australia in 1932. The Australian public, in particular farmers, were concerned about the large number of emus running amok and destroying crops. The emu is a large, flightless bird which is native to Australia. The Australian military was deployed to get the birds' numbers under control. Due to the speed of the emus and difficult terrain, the military was unsuccessful in controlling the emu numbers. It could be argued that the emus won the Great Emu War of 1932.
+
+Q31: Give me a summary of the paragraph in your own words and it should be short
+A31: Recreational drug use refers to using certain drugs for enjoyment or leisure purposes instead of for medicinal reasons. Some common recreational drugs include caffeine, alcohol, nicotine, marijuana, and synthetic drugs like ecstasy. While many countries consider recreational drug use legal, there are still laws surrounding their consumption and distribution. The EU has implemented various policies aimed at reducing recreational drug use and addressing issues related to drug trafficking within its borders.
+
+People often take recreational drugs because they want to experience feelings of euphoria, increased energy levels, or enhanced sensory perception. However, these drugs can have serious side effects, including dependence, withdrawal symptoms, impaired judgment and motor skills, and even death. Additionally, recreational drug use can lead to legal consequences, financial problems, strained relationships, and health issues such as mental illness, organ damage, and overdose. Despite these risks, many individuals continue to engage in recreational drug use due to peer pressure, stress relief, or simply for the thrill of it. Overall, recreational drug use poses significant dangers to both individual users and society as a whole.
+
+Q32: From the passage list down the various Gods whom Bhrigu visited. List the results in comma separated format.
+A32: Indra, Brahma, Saraswati, Shiva, Parvati, Vishnu,  Lakshmi
+
+Q33: From the given text, can you please extract all possible technical details of the aeroplane in the JSON format {key:value} where key is the attribute and value is the data for the attribute.
+A33: Here are the technical details of the aeroplane that I could parse and format it in JSON format {key:value}.
+
+{
+"age in years":"4",
+"aircraft manufacturer":"Airbus",
+"aircraft model":"A330-203",
+"manufacturer serial number":"660",
+"aircraft registration number":"F-GZCP",
+"first flight date":"25 February, 2005",
+"airline delivery date":"18 April, 2005",
+"airline name":"Air France",
+"aircraft engine type":"General Electric CF6-80E1A3",
+"aircraft engine maximum thrust":"60400",
+"aircraft engine maximum thrust unit":"lbf",
+"aircraft cruise speed range":"Mach0.82-0.86",
+"aircraft cruise speed attitude":"35000",
+"aircraft cruise speed attitude unit":"feet",
+"aircraft range":"12500",
+"aircraft range unit":"km",
+"aircraft major overhaul date":"16 April, 2009",
+"aircraft accumulated flying hours":"18870"
+}
+
+Q34: If McDonald’s were to go out of business and disappear, would the world be a better or worse place?
+A34: McDonald’s has more than 36 thousand locations in 190 countries, and people still cannot believe that McDonald's would soon put a period to the honorable accomplishment they did in the last several years making 4.73 billion dollars in a year as a whole. I do believe McDonald’s disappearance would have some difference in some communities in the short term since there are 210,000 people working at McDonald’s. And also, it can have environmental, and medical benefits that can make the world a better place.
+    The world is hugely affected by McDonald’s action, which makes the disappearance of McDonald’s could make the world a better place although it could have some negative influence on equality and education. Although McDonald's helps organizations that help people who lack education, suffer in poverty, or fight against discrimination, the positive impact of McDonald’s departure makes the world a better place. For example, since McDonald’s cut down the forest to build a cow farm, it can cause deforestation that is threatening the ecosystem and animal habitats. In addition, McDonald’s produces 2 million tons of packaging each year. This means that the retirement of McDonald’s could prevent habitat loss, deforestation, and even waste problems and have a huge, positive impact on the environment.
+    However, the change in McDonald's retirement causes would vary between different stakeholders, but overall, it would only have a mild, or little difference between people’s lives. Although McDonald’s disappearance might shock many people, after a short term, the other fast-food restaurants would replace McDonald’s, so fast-food lovers could adapt to the new environment. Furthermore, although 210,000 people could lose their job, it is still possible for them to change to another job, or have an opportunity to change into another job that they have an interest in. Therefore, McDonald’s disappearance could have little or no difference at all to some people, and withdraw from all the honorable accomplishments.
+    In conclusion, I think that the disappearance of McDonald’s can make the world a better place for environmental, and medical reasons although it could have negative effects in some communities, and that McDonald’s would not be forgotten by the joy and honorable achievements that they have achieved in the last few years.
+
+Q35: What is the format of an email?
+A35: Emails contain a username, the @ symbol, and a website domain. The website domain must contain a "." (dot), where the left and right side of the dot are nonempty. For example, lorem.ipsum@dolor.com is an email.
+
+Q36: Tell me whether these terms are related to tennis, hockey, or basketball: alley oop, snap shot, serve, backhand shot, lay up, drop shot.
+A36: Alley-oop and layup are basketball terms. An alley-oop is when one player throws the ball to another player who jumps to catch the ball and dunks it mid-air. Layup is made by leaping from below, laying the ball up near the basket, and using one hand to bounce it off the glass and into the hoop.
+
+Snap shot is a hockey term. The snap shot combines the main advantages of the wrist shot (shot accuracy and quick delivery) and slap shot (puck speed).
+
+Serve and drop shot are tennis terms. To complete a serve, a player will hit the ball with a racquet so it will fall into the diagonally opposite service box without being stopped by the net. A drop shot is when a player hits the ball over the net and the ball lands close to the net and bounces low, often hit with some lob and significant backspin.
+
+Backhand shot is a term in tennis as well as hockey used to describe hitting a tennis ball or hockey puck on the backhand side of the racquet or hockey stick.
+
+Q37: What is the state flower of California?
+A37: The state flower of California is the Golden Poppy
+
+Q38: What did the CFO do after Paypal?
+A38: Roelof Botha, one of the former CFOs, became partner and Senior Steward of venture capital firm Sequoia Capital. Ken Howery, the other CFO, became a partner at Founders Fund.
+
+Q39: Give me a list of the best rappers of all time
+A39: Eminem
+Andre 3000
+Tupac
+Jay-Z
+Kanye West
+Kendrick Lamar
+Lauryn Hill
+Nas
+
+Q40: When completing a full distance triathlon for a personal best time, categorize the following as either ‘useful’, ‘not useful’, ‘dangerous’, or ‘neither’. A knife, pretzels, a bike helmet, a French horn, cowboy boots
+A40: A knife is sharp and is dangerous to run, bike, and swim with, therefore a knife is considered dangerous. Pretzels are a great example of quick digesting carbohydrates and salt (to avoid cramping) so pretzels are considered useful. A bike helmet is useful to ensure that the bike portion is completed safely. There is no use for a French horn in a triathlon, especially when you’re attempting to complete it in a personal best time, therefore it’s not useful. Lastly, cowboy boots have spurs on the back which could hurt during the bike, run, and swim therefore they’re considered dangerous.
+
+Q41: What was unique about Scrubs?
+A41: Most episodes featured voice-overs done by Zach Braff (who stars as the main character, J.D.), as well as the comical daydreams of J.D. This opened up a unique visual medium that the comedy writers were not used to. Also, actors were given the chance to improvise their lines on set.
+
+Q42: Who sang Big Big Deal
+A42: Big Big Deal is a song by the British singer-songwriter Steve Harley, which was released as his debut, non-album solo single in 1974.
+
+Q43: Identify which instrument is string or percussion: Pandero jarocho, Sallaneh
+A43: Sallaneh is string, Pandero jarocho is percussion.
+
+Q44: What is the universe made of?
+A44: Astronomers don’t seem to know what 95% of the universe is made of. Atoms and physical matter, which form everything we see around us, only account for a measly 5%. Over the past 80 years it has become clear that the substantial remainder is comprised of two shadowy entities – dark matter and dark energy. The former, first discovered in 1933, acts as an invisible glue, binding galaxies and galaxy clusters together. Dark energy, Unveiled in 1998, is responsible for the universe’s accelerated expansion.
+
+Q45: Classify each of the following as either titles by Ann M. Martin or Gertrude Chandler Warner: Bummer Summer, Belle Teal, A Corner of the Universe, Ten Kids, No Pets, Everything for a Dog, Surprise Island, Blue Bay Mystery, Mystery Ranch, Benny Uncovers a Mystery, The Boxcar Children
+A45: Ann M. Martin: Bummer Summer, Belle Teal, A Corner of the Universe, Ten Kids, No Pets, Everything for a Dog
+Gertrude Chandler Warner: Surprise Island, Blue Bay Mystery, Mystery Ranch, Benny Uncovers a Mystery, The Boxcar Children
+
+Q46: how to find a good date?
+A46: According to Pew Research, 70% of people say their dating life isn’t going well. The three top reasons provided that dating doesn’t work out include:
+1)    People live too far away from each other
+2)    Significant debt or poor financial situation
+3)    different political views
+A lot of people nowadays met through online dating apps so they can connect to potential dates they might not be able to met in personal life.  Some prefer someone who complements him while others like dates share similarities. For people looking for fast-paced effective dating experiences, you can try 8-minute first date meeting where you chat with people within eight minutes and decide whether or not they should go out on another date. Experts claims that successful relationships are those where a partner validates/affirms you, inspires you, and challenges you in a good way!
+
+Q47: Classify these MLB teams as either National League or American League teams: New York Mets, St. Louis Cardinals, Los Angeles Dodgers, Arizona Diamondbacks, Tampa Bay Rays, New York Yankees, Houston Astros, Oakland A's
+A47: National League: New York Mets, St. Louis Cardinals, Los Angeles Dodgers, Arizona Diamondbacks
+American League: Tampa Bay Rays, New York Yankees, Houston Astros, Oakland A's
+
+Q48: what is the meaning of life?
+A48: I don't, go read some books
+
+Q49: What is a capital gain in finance?
+A49: You make a capital gain if you sell or dispose of a long−term asset (such as a building) for more than it cost you.
+
+Q50: When was Genghis Khan born?
+A50: 1162
+
+Q51: What is the best age to drive a car?
+A51: In U.S legal age to drive is 16 years old. You will need to pass a written test and driving test in DMV to get your driver's license. However, I will not recommend driving at 16 because the insurance cost for young teen drivers is very high. It can be over $3000 per year and some states can even reach $5000. Also, most 16 years old is not prepared to handle the mental and physical demands of driving, their also easy to blend in their emotion when they are driving. So, my suggestion is to wait until they are 18 years old to drive a car.
+
+Q52: Who founded Ford
+A52: Henry Ford founded Ford Motor Company (aka Ford) in on June 16, 1903 in Dearborn Michigan.
+
+Q53: What is the history of olive oil?
+A53: Besides food, olive oil has been used for religious rituals, medicines, as a fuel in oil lamps, soap-making, and skincare applications.
+
+Q54: Based on the given text give the name of the people and a summary of how they contributed to the notion of infinite or multiple worlds.
+A54: Here are the name of the people and a summary of how they contributed to the notion of infinite or multiple worlds:
+
+Anaximander (6th century BCE): The idea of infinite worlds was first suggested by him.
+
+Leucippus (5th century BCE), Democritus (5th century BCE), Epicurus (341-270 BCE) and Lucretius (1st century BCE):  They believed in the concept of innumerable worlds.
+
+Chrysippus (3rd century BCE): He suggested the existence of multiple universes across time which means the world eternally expired and regenerated.
+
+William James (1895): He first used the term "multiverse". 
+
+Boltzmann and Zermelo (1895): In a debate between them the multiverse concept first appeared in the modern scientific context.
+
+Erwin Schrödinger (1952): He first came up with the term "superposition" by referring to his equations that seemed to describe several different histories which were "not alternatives, but all really happen simultaneously".
+
+Q55: Why are people so excited about SpaceX?
+A55: SpaceX is a space exploration company started by Elon Musk designed to make humanity multi-planetary.  SpaceX is short for Space Exploration Technologies.  The company develops rockets, spacecraft, launch facilities, and satellites to deliver a variety of services to people all around the world.  The long term plan for SpaceX is to create a system of technologies which are capable of bringing humans to Mars and making Mars habitable.
+
+Q56: How often are the Olympics held?
+A56: The Olympics occur every 4 years.
+
+Q57: What is the best season to visit Japan?
+A57: The best season to visit Japan is well known as Spring, especially between March and April when you can enjoy cherry blossom viewing. Because it is so popular, you will expect a lot of crowds especially in famous cherry blossom spots. Hotels and flights are hard to be booked and perhaps the most expensive. 
+
+Another popular season is Fall. The weather is pleasant and many foreigners come to visit especially for fall foliage in November. And the good thing is that despite its beauty, it is expected to be less crowded than Spring during cherry blossom season.
+
+Q58: classify the following items as income or spending: salary, movie, tax return, car rent, food
+A58: salary is income, car rent is income, movie is spending, car rent is spending, food is spending
+
+Q59: What is a quantum computer?
+A59: A quantum computer is a computer that exploits quantum mechanical phenomena. At small scales, physical matter exhibits properties of both particles and waves, and quantum computing leverages this behavior using specialized hardware. Classical physics cannot explain the operation of these quantum devices, and a scalable quantum computer could perform some calculations exponentially faster than any modern "classical" computer. In particular, a large-scale quantum computer could break widely used encryption schemes and aid physicists in performing physical simulations; however, the current state of the art is still largely experimental and impractical.
+
+The basic unit of information in quantum computing is the qubit, similar to the bit in traditional digital electronics. Unlike a classical bit, a qubit can exist in a superposition of its two "basis" states, which loosely means that it is in both states simultaneously. When measuring a qubit, the result is a probabilistic output of a classical bit. If a quantum computer manipulates the qubit in a particular way, wave interference effects can amplify the desired measurement results. The design of quantum algorithms involves creating procedures that allow a quantum computer to perform calculations efficiently.
+
+Physically engineering high-quality qubits has proven challenging. If a physical qubit is not sufficiently isolated from its environment, it suffers from quantum decoherence, introducing noise into calculations. National governments have invested heavily in experimental research that aims to develop scalable qubits with longer coherence times and lower error rates. Two of the most promising technologies are superconductors (which isolate an electrical current by eliminating electrical resistance) and ion traps (which confine a single atomic particle using electromagnetic fields).
+
+Any computational problem that can be solved by a classical computer can also be solved by a quantum computer. Conversely, any problem that can be solved by a quantum computer can also be solved by a classical computer, at least in principle given enough time. In other words, quantum computers obey the Church–Turing thesis. This means that while quantum computers provide no additional advantages over classical computers in terms of computability, quantum algorithms for certain problems have significantly lower time complexities than corresponding known classical algorithms. Notably, quantum computers are believed to be able to solve certain problems quickly that no classical computer could solve in any feasible amount of time—a feat known as "quantum supremacy." The study of the computational complexity of problems with respect to quantum computers is known as quantum complexity theory.
+
+Q60: What can you learn from living in a foreign country?
+A60: A person that lives outside their native country is called an expatriate.  One of the challenges of living abroad may be learning a new language.  It is also important to understand the culture, and be sensitive to local customs and traditions as these may differ significantly from those you are used to.  You may experience new food and drink, and even when and where you eat may vary from your native country.  It is possible that fashions and clothing may vary to accommodate a different climate or lifestyle.  Overall, spending time living in a foreign country will broaden your general knowledge and encourage you to view things from an alternative perspective.
+
+Q61: Who is the largest coatings company in the world by revenue?
+A61: PPG Industries, Inc.
+
+Q62: What is a dataset?
+A62: A dataset is a tabular information composed of rows and columns.  Each column will have a name that describes the data in that column along with an assigned datatype to describe the data that is the column.  Common datatypes are string, int, and double.  The total number of column in the dataset is called the total rows, and the total number rows is referred to as total row count.  All of these attributes together are what we call a dataset.  Datasets come into different forms too - batch, real-time, and static.
+
+Q63: When cleaning a house, categorize each of the following as "useful" or "not useful": Broom, Mop, Vacuum, Sand, Dirt, Dust Pan, Food
+A63: Broom: Useful
+Mop: Useful
+Vacuum: Useful
+Sand: Not Useful
+Dirt: Not Useful
+Dust Pan: Useful
+Food: Not Useful
+
+Q64: Name top 10 companies from the Fortune 500 list in 2022
+A64: 1. Walmart   
+2. Amazon.com   
+3. Apple  
+4. CVS Health 
+5. UnitedHealth Group  
+6. Exxon Mobil 
+7. Berkshire Hathaway   
+8. Alphabet  
+9. McKesson   
+10. AmerisourceBergen
+
+Q65: Classify the following ten cloud types by altitude :
+Cirrus, Cumulus, Stratus, Stratocumulus, Cumulonimbus, NimboStratus, Cirrocumulus, Cirrostratus, Altostratus, Altocumulus,
+A65: These cloud types are generally classified in three different altitude groups.
+
+The lowest hanging clouds are within 2km distance and cover the four types listed here - Stratus, Cumulus, Cumulonimbus, and Stratocumulus.
+
+The middle altitude clouds are within 2 to 7 km distance. The three cloud types in this category are Nimbostratus, Altocumulus, and Altostratus.
+
+Finally, the highest altitude clouds can be as high as 13 kms. These include Cirrus,  Cirrocumulus, Cirrostratus.
+
+Each of these cloud types have further cloud species based on the formation and appearance.
+
+Q66: Which of the following are prime numbers: 7, 12, 23, 33, 64, 79, 97, and 100.
+A66: The numbers 7, 23, 79, and 97 are prime numbers.  The numbers 12, 33, 64, and 100 are not.
+
+Q67: Would each of the following conditions be good or bad for a bike ride? Pouring rain, sunny skies, hail, cloudy day, dense fog, heavy wind, light breeze.
+A67: Pouring rain: bad, sunny skies: good, hail: bad, cloudy day: good, dense fog: bad, heavy wind: bad, light breeze: good.
+
+Q68: Where does the sun rise and set?
+A68: The sun rises in the east, and sets in the west.
+
+Q69: Which of these are computer video games: Path of Exile; Playstation; Xbox; Nintendo; Starcraft; Civilization
+A69: Path of Exile; Civilization; Starcraft
+
+Q70: Which of the following countries are in Europe and which are in the rest of the world: Nicaragua, Australia, Austria, New Zealand, Morocco, Spain, Greece, China, Chile?
+A70: Austria, Spain, and Greece are all countries in Europe, while the remaining countries in the list are in the rest of the world. Nicaragua is in North America, Australia and New Zealand are in Oceania, Morocco is in Africa, China is in Asia, and Chile is part of South America.
+
+Q71: Classify the cities based on whether they are located in Eritrea or Poland.
+Warsaw, Łódź, Assab, Keren, Kraków, Asmara
+A71: Eritrea - Asmara, Keren, Assab
+Poland - Warsaw, Kraków, Łódź
+
+Q72: Who are some of the most influential women's hockey players
+A72: Hayley Wickenheiser, Cassie Campbell, Cammi Granato, Angela Ruggiero
+
+Q73: Tell me whether each of these countries is an island or not: Iceland, New Zealand, Chad, Nepal, Cuba, Madagascar
+A73: Iceland: Island
+New Zealand: Island
+Chad: Not an Island
+Nepal: Not an Island
+Cuba: Island
+Madagascar: Island
+
+Q74: Change this sentence to paste tense
+A74: Elstow was a special service area within the Rural Municipality of Blucher No. 343 in Saskatchewan, Canada.
+
+Q75: Given that preserving human brains for more than a century is fairly uncommon, what do you think was the motivation for preserving Guiteau's brain?
+A75: One reason for preserving the brain may have been to study structural abnormalities that could have explained Guiteau's violent behavior. Alternatively, because Guiteau was well-known and infamous, his brain may have been preserved for use as a memento or as a warning to discourage presidential assassinations in the future.
+
+Q76: is HR a great career
+A76: yes
+
+Q77: Help me pick a Lego set for my friends.
+A77: Lego has different sets for people in different ages. Each set usually has age guidance on the box. For small kids below 3 years old, I would recommend Duplo, because Duplo bricks have bigger size, and won't be swallowed by accident. For kids above 3 years old, but less than 10 years old, I would recommend Lego Classic. For those sets, people can use their imagination to create whatever things they like. For kids above 10 and adults, Lego Technic and Icons are super cool and good for display. 
+
+For people interested in specific themes, like Star War, Harry Potter, etc, lego also has sets in those themes for you to choose from.
+
+Q78: What is the name of the New England professional football team?
+A78: New England Patriots
+
+Q79: Extract when were the universities of Palencia and Salamanca established
+A79: The University of Palencia was established between 1212 and 1263 and the University of Salamanca was established between 1218 and 1254.
+
+Q80: What are different ways of data collection?
+A80: Gathering data can be accomplished through a primary source (the researcher is the first person to obtain the data) or a secondary source (the researcher obtains the data that has already been collected by other sources, such as data disseminated in a scientific journal). Data analysis methodologies vary and include data triangulation and data percolation. The latter offers an articulate method of collecting, classifying, and analyzing data using five possible angles of analysis (at least three) to maximize the research's objectivity and permit an understanding of the phenomena under investigation as complete as possible: qualitative and quantitative methods, literature reviews (including scholarly articles), interviews with experts, and
+
+Q81: What should I consider before taking a job with a lot of travel?
+A81: Many people are attracted to jobs that have significant travel.  The allure of traveling to new and exciting places, the potential for airline and hotel program status benefits, meeting new people, etc.  All of these things may be exactly what you are looking for.  But my advice for anyone who is considering a position with significant travel and who has not experienced that type of work-life before is to think about all the things in their life that they are involved with that make them happy.  Think hard about whether you can take them on the road with you, reproduce them wherever your business travel takes you, or do without them.  Perhaps you have a standing poker night each month with your friends.  You may not be able to attend that with any regularity.  You may love the climbing gym or cycling club at home.  Can you replace that with hotel gyms?  Do you stick to a diet that will be hard to keep when you need to eat out a lot?  Do you have a relationship at home that will suffer if you are gone a lot?  The list can go on and on and is different for each person.  But it is critical to evaluate this aspect of how your life will change when you travel a lot of the time and make sure you are happy with the accommodations and changes you will need to make.  Another important consideration is whether you will be traveling to different time zones.  Often the idea of globetrotting to different parts of the world is very exciting, but you will have to deal with jetlag while maintaining your work performance.  You will end up dealing with canceled or delayed flights, traffic, and other types of travel disruptions.  Ultimately, a job with significant travel can involve a lot of excitement and fun.  But it is not right for everyone. It is not vacation travel.  And being honest with yourself about what changes you will need to make, what hassles you will need to deal with, and what you will have to give up will help you make the right decision.  And you will never truly know until you do it.
+
+Q82: What is a benefit of salsa dancing?
+A82: Salsa dancing is believed by many to improve your emotional well-being. This is because we you dance, endorphin levels increase. An increase in your endorphin levels can lead to a decrease in stress, anxiety, and depression.
+
+Q83: How many slide positions are there on a trombone
+A83: There are 7 slide positions on a trombone, where each slide position is a half step apart from the next slide position. In combination with changes in air pressure to change the pitch of the note, a trombone player adjusts the slide position to produce various tones at various octaves.
+
+Q84: Write a tweet from the perspective of a dog that’s angry about the squirrels in its yard
+A84: GET OFF MY LAWN SQUIRRELS!!! I’ve marked this place a thousand times, it’s not yours #boundaries
+
+Q85: If Rosslyn Mountain Boys had produced two more albums, how many albums would they have produced?
+A85: Rosslyn Mountain Boys produced two albums on their own, so if they produced two more albums then they would have produced four albums.
+
+Q86: What does the Constitution do?
+A86: Protects basic rights of Americans
+
+Q87: Have any women won the Nobel Prize in Physics?
+A87: Four women have won the Nobel Prize in Physics: Marie Skłodowska-Curie (1903), Maria Goeppert-Mayer (1963), Donna Strickland (2018), and Andrea Ghez (2020).
+
+Q88: Tell whether these are countries, cities, continents or neither: Australia, Mexico, Mexico city, Antartica, Singapore, India, Gulf, Beijing, Jakarta, Luxembourg, Vatican City
+A88: Australia is a country as well as a continent.
+Mexico is a country.
+Mexico City is a city.
+Antarctica is a continent.
+Singapore is a country as well as a city.
+India is a country.
+Gulf is neither.
+Beijing is a city.
+Jakarta is a city.
+Luxembourg is a country as well as a city.
+Vatican City is a country as well as a city.
+
+Q89: Identify which instrument is string or woodwind: Catalan shawm, Tres
+A89: Tres is string, Catalan shawm is woodwind.
+
+Q90: What is Canada known for?
+A90: Canada is known for being a large country with cold winters and a small population given its large size. Canada has a diverse population and high rates of immigration, making it a very multi-cultural country. Canadians are well known for being polite, kind people. Canada excels in winter sports including ice hockey and figure skating. Poutine is a French Canadian dish that is very popular across the entire country.
+
+Q91: What are the key steps for building a an in ground pool?
+A91: Pre-construction site meeting - Before starting the construction of your pool, schedule a pre-construction site meeting. With a design consultant present, a site supervisor will review the plans and inspect your yard to ensure no modifications to the design are required. 
+
+Excavation - The hole is dug and excess dirt is removed or dropped. The hole will be slightly larger and deeper than the finished pool, as the pool wall and bottom will take up some of this area.
+
+Form & Steel - Now that the pool has been dug, the hole is with reinforced with “steel rebar” to add the strength required for your pool.
+
+City Inspections - After installing the steel rebar, an inspector will review your pool plans and inspect the job site to make sure everything is up to code. 
+
+Gunite - Crews will spray / apply the concrete that makes up your pool’s shell and steps. If your pool design includes any swim-outs, fountains, or a gunite spa, those elements will be part of this phase as well.
+
+Backfill & grade - Once the gunite is dried, it’s time to start backfilling around the walls and braces. The material from excavation is used to fill in the space between the newly constructed shell of the pool and the rest of the backyard.
+
+Plumbing Installation & Inspection - Plumbing crews begin installation, and dig trenches to lay pipe from your pool to the pool equipment. Any pipes for water features such as sprays, fountains, or rock falls will be installed, along with pool return lines and skimmer(s). After the plumbing installation, the city will inspect the work completed.
+
+Site Grade - Prior to placing the decking, the construction crew will level out and compact the sub-base preparing for the patio.
+
+Tile & Coping Installation - Tile crews will install your pool’s waterline tile and coping. Additional work may also be performed during this phase by a different set of crews if rock is used in your pool’s design. If your pool design requires a retaining wall at the edge of any part of your deck, it will be constructed at this time. 
+
+Deck Installation - Crews will form the shape and sand your deck and any planter areas. After this process is complete chosen rock or tile finish is applied. 
+
+Electrical - Pre-Electrical Equipment Hook Up: Installing your pool pump, filter, and gas heater (if applicable). Run the conduit for the main electric supply used by your pool equipment. They will also install lighting and any wiring necessary for your pool. City inspection at this time as well.
+
+Screening - If you opted in for a screen, footers are poured and screen is constructed.
+Pool Plaster - Prepare the concrete surface of your swimming pool, and then apply your pool’s finish and fill the pool with water – finishes cured underwater.  The water will need to stay on once it is started, without interruption, until your pool is full. Your pool will be considered completely full once the water reaches halfway up the tile line (middle of your waterline tile).
+
+Clean up & inspection - During this phase, remove any trash that was created during the construction of your pool, and also complete the final grade of your yard. In most communities, an inspector from your city will inspect your pool area to ensure it is safe to use and everything has been properly completed.
+
+Pool School - When the pool is balanced a Service Department will contact you to schedule an orientation. This orientation will answer any questions you may have about your new pool, as well as show you how to properly use your pool equipment.
+
+SWIM!
+
+Q92: What triggers urticaria at night and why are hives and itching at their worst?
+A92: Getting hives at night could mean that you have come into contact that triggers the allergic reaction. It could very well be something you ate or the fabric of your sheets or your current environment. One must avoid triggers and use anti-itch medicine without prescription to alleviate the problem.
+
+Q93: What is a Security Information Event Management platform (SIEM)?
+A93: Security Information Event Management (pronounced SIM) is a combination of security information management (SIM) and security event management (SEM) technologies. It allows security operations teams to collect, parse, alert, and investigate security events. Modern SIEMs can leverage machine learning and SOAR capabilities to offer more significant detection and response capabilities.
+
+Q94: Where has the word ciao originated
+A94: Ciao is an informal salutation in the Italian language that is used for both "hello" and "goodbye".
+
+Originally from the Venetian language, it has entered the vocabulary of English and of many other languages around the world. Its dual meaning of "hello" and "goodbye" makes it similar to shalom in Hebrew, salaam in Arabic, annyeong in Korean, aloha in Hawaiian, drud (bedrud) in Persian, and chao in Vietnamese (the latter is a false cognate; the two words are not linguistically related despite sounding similar to each other).
+
+Q95: Give me a list of the last 5 NHL championship teams
+A95: 2022 Colorado Avalanche
+2021 Tampa Bay Lightning 
+2020 Tampa Bay Lightning 
+2019 St Louis Blues
+2018 Washington Capitals
+
+Q96: In music, what key is the relative minor to the key of B major?
+A96: G# minor is B major's relative minor.
+
+Q97: In which years did Ernie Wilson play his first and last grand finals?
+A97: He played his first grand final in 1919, and his last in 1927.
+
+Q98: From the passage provided, extract the second studio album that Taylor Swift released.
+A98: Fearless
+
+Q99: Given this paragraph about grunge guitarists, what types of amplifiers would typically be preferred?
+A99: Some grunge guitarists use loud Marshall or Mesa-Boogie amplifiers.
+
+Q100: What are all the dates that the Borneo visited Bencoolen written in the format Month Day Year?
+A100: December 26th 1714, February 9th 1715, March 29th 1715, August 24th 1715, May 30th 1716.
+
+Q101: Given this paragraph about Dartmouth College traditions, which homecoming-related traditions are illegal?
+A101: Touching the bonfire, and rushing the football field during halftime of the homecoming game
+
+Q102: Is California a great place to live?
+A102: Many people are drawn to California for the diverse landscapes, sunshine, career opportunities and beautiful landmarks, however there are considerations when choosing the Golden State. 
+
+California provides access to many beautiful and diverse topographical locations.  The oceans that stretch from Northern California through to Mexico provide a rich wildlife habitat and amazing surf spots.  The Sierras, the mountain range a short drive away, allow for skiing and snowboarding for a majority of the year at locations that have been home to the Winter Olympics. The Central Valley is the home of farmlands and ranches and seem to stretch for miles. California provides natural wonders from forests to desserts to mountain peaks. 
+
+California's climate in most parts is mild throughout the year. It is joked about by many, that it has one season. However, with the onset of global warming the weather patterns have seen a change.  The extreme droughts have been followed by extreme rain and flooding.  Although there has been more extreme weather across the globe, California still has a predominantly mild climate for a majority of the year making it a top destination for those looking for sunshine.
+
+California has been known as the Golden State.  It has provided golden opportunities for many who have come from all over the world to make their dreams come true. During the Gold Rush in the 1800s, miners came in from all over to find gold nuggets in the Sacramento Valley. Hollywood, the home of movies and television for the world, has been the mecca of many young person looking to find success in acting and celebrity since the early 1900s.  Silicon Valley has birthed some of the most successful companies in the world, showcasing the talents of students and entrepreneurs, changing the trajectory and pace of innovation. California is the home to many of the most transformative companies providing a wealth of job opportunities. California is the showcase of the American dream. 
+
+One can spend years visiting landmarks and interesting locations in California. The Golden Gate Bridge is a must see in San Francisco, it is one of the most historic bridges and the doorway to the San Francisco Bay. Yosemite is a glorious national park and home to gorgeous waterfall, hiking and Half Dome. Along the coast, visiting Big Sur is a must, showcasing the sky high redwoods and a priceless view of the coastline. Palm Springs provides a fun dessert location that is the home to music festivals, incredible golfing and natural hot springs. Another point of interest, Lake Tahoe, a gorgeous Lake that is truly breath taking.  It is surrounded by mountains of snow in the winter and the home to water skiers in the summer. This is just a taste of the amazing locations California has to offer. 
+
+California truly has a treasure trove of benefits for visitors and residents, however it has been struggling with issues that can threaten its future and make it difficult for those that choose to call it home. California has very high taxes for both residents and business owners.  The population boom has also created a lack of low cost housing, California is home to the some of the highest housing prices in the United States. The high taxes and high priced housing makes this state out of reach for many. Additionally, the state needs to work on investments in public education, infrastructure and homelessness which have all been suffering in recent years.
+
+Despite some of it's struggles, the Golden State continues to be golden due to amazing locations, an incredible climate, a diverse population and unmatched opportunity. California is a unique gem on the west coast for many to choose to live and visit.
+
+Q103: What are the different types of loan or mortgage products for home buyers in the U.S.?
+A103: It is crucial to understand all your financing options when considering buying a new home. Some of the most common loan types for residential home buyers are listed below:
+
+1. Conventional Loans: The most common home loan type that is not insured or guaranteed by the government. While it typically requires 20% down payment, you can put as little as 5% down.
+2. VA Loans: This is offered by the U.S. Department of Veterans Affairs for people who have served in the military as well as their spouses. It requires no down payment and is an amazing option for anyone who is eligible.
+3. FHA Loan: A mortgage insured by the Federal Housing Administration. First time home buyers find these loans very attractive due to the small down payment requirements of just 3.5% and the flexible credit requirements. Additionally there are children products to this loan vehicle including the FHA 203k loan which can help those purchasing distressed properties by funding the renovations, within certain predetermined guidelines.
+4. Adjustable-Rate Mortgage (ARM): With this product, your interest rate varies over time depending on market and economic conditions. These seem attractive initially as they typically start with lower rates than fixed-rate mortgages but can increase over time.
+5. Fixed-Rate Mortgages: This interest rate is locked in at the start of the loan and starts the same throughout the entire term.
+7. USDA Loan: Guaranteed by the U.S. Department of Agriculture and eligible to suburban and rural homebuyers. This loan product also doesn't require down payment and has lower mortgage insurance requirements than an FHA loan
+
+While these are the most common loan types, other options tend to appear from time to time. It is important to do your research and pick the product that best suits your individual needs and long-term financial goals. To help better understand these options many aspiring buyers reach out to local loan providers, real estate agents, and brokers.
+
+Q104: What is the name of the largest train station in Amsterdam
+A104: The largest train station in Amsterdam is called Centraal Station.
+
+Q105: What are some useful ways to repurpose a cardboard box?
+A105: That depends on the person and what they find useful. I might find a box useful for clearing my desk of all the mess I accumulate throughout the week. Meanwhile, my kids would much prefer to turn the box into a play house, a spaceship, or maybe a jail to imprison each other in.  A cat might repurpose it as a hiding place or as a new scratching toy.
+
+Q106: Please list all of Taylor Swift's albums, the year each one was released, and the genre of the album if it is mentioned, according to the paragraph I give.
+A106: Here is the list in the format of "album name: (year released) genre":
+
+Taylor Swift: (2006) country
+Fearless (2008): country pop
+Speak Now (2010): country pop
+Red (2012): rock and electronic
+1989 (2014): synth-pop
+Reputation (2017): urban
+Lover (2019): not mentioned
+folklore (2020): indie folk and alternative rock
+evermore (2020): alternative rock
+
+Q107: What are index funds?
+A107: Index funds are investment funds that follow a benchmark index, such as the S&P 500 or the Nasdaq 100. When you put money in an index fund, that cash is then used to invest in all the companies that make up the particular index, which gives you a more diverse portfolio than if you were buying individual stocks.
+
+Q108: Classify these colors into primary or not primary: red, blue, green, orange, yellow, white, blue, pink, black, white, brown.
+A108: Red, blue and yellow are primary colors. Green, orange, white, blue, pink, black, white and brown are not primary colors.
+
+Q109: What is apartheid, and which country experienced it?
+A109: Apartheid is a system of racial segregation in South Africa.
+
+Q110: List the business verticals of Reliance Industries Limited as per the passage. Display the result as a dashed list.
+A110: energy
+petrochemicals
+natural gas
+retail
+telecommunications
+mass media
+textiles
+
+Q111: What s epigenomics?
+A111: Epigenomics is the study of the complete set of epigenetic modifications on the genetic material of a cell, known as the epigenome. The field is analogous to genomics and proteomics, which are the study of the genome and proteome of a cell. Epigenetic modifications are reversible modifications on a cell's DNA or histones that affect gene expression without altering the DNA sequence. Epigenomic maintenance is a continuous process and plays an important role in stability of eukaryotic genomes by taking part in crucial biological mechanisms like DNA repair. Plant flavones are said to be inhibiting epigenomic marks that cause cancers. Two of the most characterized epigenetic modifications are DNA methylation and histone modification. Epigenetic modifications play an important role in gene expression and regulation, and are involved in numerous cellular processes such as in differentiation/development and tumorigenesis. The study of epigenetics on a global level has been made possible only recently through the adaptation of genomic high-throughput assays.
+
+Q112: What is photosynthesis?
+A112: Photosynthesis is the biological process by which plants use carbon dioxide, sunlight and water to create oxygen and energy.
+
+Q113: What is the name of the National Anthem of the Netherlands?
+A113: The name of the National Anthem of the Netherlands is "Wilhelmus".
+
+Q114: What is Grace Hopper known for?
+A114: Grace Hopper was the first person to create a compiler for a programming language and one of the first programmers of the Harvard Mark I computer, an electro-mechanical computer based on Analytical Engine. Hopper's work with computers started in 1943, when she started working at the Bureau of Ordnance's Computation Project at Harvard where she programmed the Harvard Mark I. Hopper not only programmed the computer, but created a 500-page comprehensive manual for it. Even though Hopper created the manual, which was widely cited and published, she was not specifically credited in it. Hopper is often credited with the coining of the term "bug" and "debugging" when a moth caused the Mark II to malfunction. While a moth was found and the process of removing it called "debugging," the terms were already part of the language of programmers.
+
+Q115: What are the benefits of a high protein diet
+A115: High protein diets can have a lot of benefits. For one, if you are interested in muscle growth, protein helps with that, and a high protein diet can lead to increased muscle growth. Additionally, protein rich meals can help people stay full longer which can help decrease snacking leading to weight loss
+
+Q116: Classify the movies based on whether they belong to Fantasy or Mystery genre.
+AVATAR, SHAZAM, MISSING, FREDDY
+A116: Mystery - MISSING, FREDDY
+Fantasy - AVATAR, SHAZAM
+
+Q117: Which of the tree species mentioned in the text are used as a source of food for humans?
+A117: Moringa(Moringa oleifera) and Coconut palm (Cocos nucifera) are used as a source of food for humans.
+
+Q118: Why are some reasons to vacation in New Zealand?
+A118: People love to vacation in New Zealand for many reasons.  Some of the most popular are  because of its beautiful and varied landscapes, the opportunities to see unique wildlife, and the ability to participate in extreme activities such as paragliding, jet boating, bungee jumping, sky diving, canyoning, and mountaineering.
+
+Q119: Which of the following ski resorts are located in Utah: Alta Ski Area, Brighton Ski Resort, Snowbird, Solitude Mountain Resort, Deer Valley Resort, Park City Mountain,  Woodward Park City, Nordic Valley Resort, Powder Mountain, Snowbasin, Sundance Resort, Beaver Mountain Resort, Cherry Peak Resort, Brian Head Resort, Eagle Point Resort, Keystone, Copper Mountain, Vail Resort, Beaver Creek, Eldora
+A119: The following ski resorts are in Utah: Alta Ski Area, Brighton Ski Resort, Snowbird, Solitude Mountain Resort, Deer Valley Resort, Park City Mountain,  Woodward Park City, Nordic Valley Resort, Powder Mountain, Snowbasin, Sundance Resort, Beaver Mountain Resort, Cherry Peak Resort, Brian Head Resort, Eagle Point Resort
+
+Q120: In which country is Jean Marie Ralph Féthière a politician?
+A120: Haiti
+
+Q121: Why do people like Blue Light Therapy?
+A121: Blue Light Therapy, similar to Red Light Therapy, helps with acne and clearing up skin. It helps reduce the bacteria on your face and can also decrease blemishes. Some devices are only Blue Light Therapy, but if you are interested in both Blue and Red Light Therapy, you can find some that offer both settings.
+
+Q122: When was the last time aliens visited the earth?
+A122: There is no evidence that aliens have ever visited the earth. There have been many claims including UFO sightings, strange atmospheric patterns, ancient buildings showing characteristics outside of human capabilities at that time. But all of these have been refuted and there is no credible evidence of alien visitation.
+
+Q123: What are the best selling albums of all time? Give me the list with the name of the artist and the name of the album
+A123: Best selling albums of all time:
+
+- Michael Jackson: Thriller
+- Eagles: Their Greatest Hits (1971–1975)
+- Pink Floyd: The Dark Side of the Moon
+- Whitney Houston / various artists: The Bodyguard
+- Bee Gees / Various artists: Saturday Night Fever
+- Fleetwood Mac: Rumours
+- Eagles: Hotel California
+- Shania Twain: Come On Over
+- Meat Loaf: Bat Out of Hell
+- AC/DC: Back in Black
+
+Q124: Who wrote the second episode of season four of Game of Thrones?
+A124: George R.R. Martin wrote "The Lion and the Rose." The TV series is also based off of his series, A Song of Ice and Fire.
+
+Q125: What is the distance between the bases in professional baseball?
+A125: Each base is separated by 90 feet in professional baseball.
+
+Q126: What continent is Peru a part of?
+A126: Peru is in South America
+
+Q127: When going on a backcountry hike, which of the following are among the 10 essentials for a safe hike: a navigation device (such as a map or compass), a headlamp with extra batteries, a fire starter (such as matches or a lighter), extra food, extra water, a camera.
+A127: A navigation device (such as a map or compass), a headlamp with extra batteries, a firestarter (such as matches or a lighter, extra food, and extra water are among the 10 essentials for a safe hike. While a camera may add to your enjoyment of the hike, it is not essential.
+
+Q128: What is your favorite fast-casual restaurant and why?
+A128: Chipotle is my favorite place to grab a quick bite to eat.  The food is fresh and delicious. Plus, they offer a simple menu and have high quality ingredients.   It is also very affordable.  The Barbacoa bowl tastes amazing and is my favorite thing to order
+
+Q129: What does a lawyer do?
+A129: A lawyer helps to interpret laws and rules for business, and individuals.  If needed they will help their clients execute a lawsuit in court on their behalf by presenting facts verbally and written.  If they are not going to court they can also help with legal issues and documentation, contracts, wills,  and appeals.  An example of a lawyer is a patent or divorce lawyer.  Another name for a lawyer is an attorney.
+
+Q130: What is contemporary style of dance?
+A130: Contemporary style lets the dancer move in a way that expresses their full emotions. Through elements of jazz, lyrical, ballet and modern dance styles creates the new generation of movement.
+
+Q131: What did Ralph Agas did as a profession?
+A131: Ralph Agas was an English land surveyor and cartographer, he was born at Stoke-by-Nayland, Suffolk.
+
+Q132: How many points did Jaromír Jágr score in the 1995-1996 season?
+A132: In 1995-1996 season, Jaromír Jágr scored 149 points, which set the record for the most points by a European born player.
+
+Q133: Given the current banking crisis we are experiencing, is this a redux of the 2008 crisis?
+A133: While there are some similarities between 2023 and 2008, I do not believe this is a similar crisis.  The biggest difference is that in 2008, nearly every bank had widespread exposure to mortgage backed securities.  In the 2023 crisis, it is only a few banks that had overexposure to treasuries without any hedge against rising interest rates.   Additionally, in 2008, while two different banks collapsed, there was much more widespread fear amongst the banks that caused a credit crunch.  Banks were unwilling to lend each other money for fear of liquidity problems, which in turned led to the credit markets freezing and causing secondary problems of companies being unable to attain lines of credit to meet payroll.   In 2023, there was also a failure of 2 banks, but the failure stemmed from a traditional bank run where depositors, en mass, were attempting to withdraw their funds at the same time, causing a liquidity problem with the affected banks.
+
+Q134: Identify which instrument is string or percussion: Bongo drum, Kingri
+A134: Kingri is string, Bongo drum is percussion.
+
+Q135: When talking about adjectives to describe proximity, which of these words fit into a 'near' category, and which are 'far'. Miles, close, neighbouring, distant, remote, adjacent, adjoining, outlying.
+A135: Close, neighbouring, adjacent and adjoining are adjectives describing a 'near' proximity. Miles, distant, remote and outlying are adjectives describing a 'far' proximity.
+
+Q136: In the series A Song of Ice and Fire, who is the founder of House Baratheon?
+A136: Orys Baratheon
+
+Q137: Why is Lafayette, California such an appealing place to live?
+A137: Lafayette, California is a small that is about a 30-minute drive, east of San Francisco in Contra Costa County. To get to Lafayette from San Francisco, you have to drive through a tunnel in the Sibley Volcanic Preserve. Lafayette has a small downtown area with cheery stores, restaurants and coffee shops. It is home to about 25,000 residents and it is very walkable and easy to access public transportation. The weather in Lafayette is considered to be a Mediterranean climate, so it is generally warm and sunny. There is a beautiful reservoir with a walking trail, paddle boats and a well-known lookout tower. The schools are considered to be some of the top schools in California, which makes the area very appealing for families.
+
+Q138: What is a good second language to learn beyond English, and why?
+A138: The most popular second languages to learn for English speakers are Spanish, French, and Italian, although from a utility perspective the most widely spoken languages aside from English are Mandarin and Hindi. You might choose a second language to learn based on upcoming travel plans or for work reasons, or purely for fun!
+
+Q139: From the passage provided,  extract the cost of building Taj Mahal
+A139: The Taj Mahal complex is believed to have been completed in its entirety in 1653 at a cost estimated at the time to be around ₹32 million, which in 2020 would be approximately ₹70 billion (about US $1 billion)
+
+Q140: How do I get from Singapore to San Francisco?
+A140: There are several direct flights from Singapore to San Francisco. Singapore Airlines and United Airlines offer several daily direct flights which take about 17h each way. Alternatively, you could take a connecting flight in Japan which would take about 20h. Driving wouldn't work because there's no continuous land route from Singapore to San Francisco. You could take a ship, but you'd need to find one that sails this route in addition to taking 2 weeks for the journey.
+
+Q141: Who first used the term "glass ceiling"?
+A141: The term "glass ceiling" was first used by Marilyn Loden in a 1978 speech.
+
+Q142: What is a subprocessor for purposes of data privacy laws?
+A142: Under a variety of data privacy laws (including the EU GDPR, the UK GDPR, and the Swiss equivalent), companies that are given personal data directly by consumers are typically known as "controllers" of personal data. When a controller engages a third party (such as a SaaS service) to help the controller provide its services, that third party is a "processor" it processes personal data at the controller's instruction. If a processor then similarly engages third parties to assist it in providing its services to the controller, then each of those third parties is a "subprocessor." Not every third party that is involved in assisting the controller in providing its services is a "processor" or "subprocessor." Processors and subprocessors are typically only defined with respect to personal data being processed.
+
+Q143: Where did Waldo E. Koop work?
+A143: Waldo E. Koop was an engineer for Boeing before becoming one of the nation's finest researchers.
+
+Q144: What are the Olympic light weight events.
+A144: Two Olympic lightweight events are men's double sculls and women's double sculls
+
+Q145: What kind of espresso machine is best for home use?
+A145: Home espresso machines are a growing segment of the small kitchen appliance market. A good home espresso machine provides the ability to make high quality espresso in a machine that is typically smaller and less expensive than their commercial counterparts. 
+
+There are three common espresso machine designs for home use: manual, semi-automatic, and fully automatic. As the name implies -- manual machines require direct "manual" control by the user, who typically applies pressure through a lever to deliver the desired brew pressure. Semi-automatic machines require the user to prepare the coffee into the portafilter, but then rely on an automated pump and to deliver the desired brew pressure for espresso. Fully automatic machines automate the entire process end-to-end: grinding the beans, loading the ground beans into the portafilter, and then pumping water through the portafilter at predefined pressure levels to brew espresso. 
+
+Manual machines typically have a lower cost, smaller footprint, and provide the user with more direct control over the brewing process. This allows skilled users to make higher-quality espresso than they would with a more automated machine. In contrast, fully automatic machines are often the easiest to use, but are unable to make espresso as consistently great as a skilled barista could with a manual machines. Fully automatic machines are inherently more complex, more expensive to purchase, and more likely to have longer-term reliability issues. 
+
+Regardless of the type of espresso machine, two factors influence how well they will perform: their ability to manage brew temperature and brew pressure. The best machines provide the ability to vary brew temperature and pressure in consistent, repeatable ways.The type of coffee bean and desired result will impact what temperature and pressure profile the user wants. The best machines offer flexibility along both dimensions in consistent, repeatable ways.
+
+Q146: what is snow skiing
+A146: skiing is a form of outdoor winter sport. Done in the mountains. You can ski on piste and off piste.
+
+Q147: Which of the numbers 1 through 10 are prime numbers?
+A147: The numbers 2, 3, 5 and 7 are prime numbers.
+
+Q148: Where can you find Anostraca?
+A148: The crustaceans Anostraca can be be found in vernal pools and hypersaline lakes, as well as deserts, ice-covered mountain lakes and Antarctic ice.
+
+Q149: What is a pineapple?
+A149: The pineapple is a fruit. It is native to South America, Central America and the Caribbean. The word "pineapple" came from European explorers, who thought the fruit looked similar to a pine cone. The pineapple is also a tropical plant and it must not be kept under 10 degrees. It takes a long time for the pineapple to grow. It mainly depends on the location and the growing conditions it gets. If the temperature is warm, the pineapple will grow faster. On average, it takes about two to three years to grow. If the fruit travels by boat, the fruit must be picked before ripening, since the trip takes a long time. Sometimes, pineapple has to travel by boat to be accessible to all. It is different for air travel. The pineapple can be picked when it is grown, since travel time is short. In most countries, they call the pineapple ananas.
+
+Q150: How can I change the type of a column?
+A150: Changing a column’s type or dropping a column requires rewriting the table. For an example, see Change column type.
